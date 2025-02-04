@@ -1,4 +1,3 @@
-package com.endes.figuras;
 
 package com.endes.figuras;
 
