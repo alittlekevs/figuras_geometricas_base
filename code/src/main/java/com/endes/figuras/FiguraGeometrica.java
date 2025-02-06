@@ -1,6 +1,5 @@
 package com.endes.figuras;
 
-package com.endes.figuras;
 
 /**
  * Clase abstracta que representa una figura geométrica genérica.
@@ -93,7 +92,7 @@ public abstract class FiguraGeometrica implements Comparable<FiguraGeometrica> {
      */
     public void rotar(double angulo) {
         System.out.println("Rotando la figura " + nombre + " en " + angulo + " grados.");
-    }
+    }	
 
     /**
      * Traslada la figura geométrica en las direcciones X e Y.
